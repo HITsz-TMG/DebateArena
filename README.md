@@ -35,7 +35,7 @@ To launch the demo on your local machine, you first pip install requirements, th
 git clone https://github.com/HITsz-TMG/DebateArena.git
 ```
 ### (Optional) Deployling local large language models
-To get model response, you need model APIs. There are two classes of APIs. One is public API, the other is deployling local large language models. If you want to deploy local services, you need enough computing power. Currently we support 4 models. The services is based on flask.
+To get model response, you need model APIs. There are two classes of APIs. One is public API, the other is deployling local large language models. If you want to deploy local services, you need enough computing power. Currently we support 4 models(vicuna, baichuan2, llama2 and openchat). The services is based on flask.
 ```bash
 python app_vicuna.py
 python app_baichuan2.py

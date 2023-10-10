@@ -11,7 +11,7 @@ This repository contains a framework for the large language model debate and a m
 
 
 ## Simple Demo
-
+![DebateArena Demo]()
 
 ## Getting Started
 

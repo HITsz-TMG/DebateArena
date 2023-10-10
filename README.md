@@ -1,7 +1,9 @@
 # DebateArena: Multi-Agent Debate Environment for LLMs
 
 <div align="center">
- [Overview]() | [News]() | [Architecture]() | [Usage]() | [Citation]() | [License]()
+
+ [Overview](https://github.com/HITsz-TMG/DebateArena#overview) | [News](https://github.com/HITsz-TMG/DebateArena#fire-news) | [Architecture](https://github.com/HITsz-TMG/DebateArena#rocket-architecture) | [Usage](https://github.com/HITsz-TMG/DebateArena#rotating_light-usage) | [Citation](https://github.com/HITsz-TMG/DebateArena#citation) | [License](https://github.com/HITsz-TMG/DebateArena#license)
+
 </div>
 
 

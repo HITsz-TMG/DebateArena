@@ -54,7 +54,7 @@ python gradio_web_server_1.py
 ```
 
 ## Architecture
-
+![Architecture](imgs/Architecture.png)
 
 ## Contact
 If you have any question, please feel free to contact me by e-mail: 22S051013@stu.hit.edu.com or submit your issue in the repository.

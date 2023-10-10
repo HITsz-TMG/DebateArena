@@ -2,7 +2,7 @@
 
 <div align="center">
 
- [Overview](https://github.com/HITsz-TMG/DebateArena#overview) | [News](https://github.com/HITsz-TMG/DebateArena#fire-news) | [Architecture](https://github.com/HITsz-TMG/DebateArena#rocket-architecture) | [Usage](https://github.com/HITsz-TMG/DebateArena#rotating_light-usage) | [Citation](https://github.com/HITsz-TMG/DebateArena#citation) | [License](https://github.com/HITsz-TMG/DebateArena#license)
+ [Overview](https://github.com/HITsz-TMG/DebateArena#overview) | [Getting Started](https://github.com/HITsz-TMG/DebateArena#getting-started) | [Architecture](https://github.com/HITsz-TMG/DebateArena#architecture) | [Contact](https://github.com/HITsz-TMG/DebateArena#contact)
 
 </div>
 

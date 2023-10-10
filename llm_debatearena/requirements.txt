@@ -1,0 +1,11 @@
+fastapi==0.103.2
+Flask==3.0.0
+fschat==0.2.29
+gradio==3.47.1
+llama_recipes==0.0.1
+openai==0.28.0
+protobuf==4.24.4
+Requests==2.31.0
+torch==2.0.1
+transformers==4.33.2
+zhipuai==1.0.7

@@ -464,7 +464,7 @@ def theme_selector_change(selected_value):
     print("theme_selector_change RUN!")
     if selected_value in theme2num:
         idx = theme2num[selected_value]
-        return debate_list[idx]['positive'], debate_list[idx]['negative']
+        return debate_list[idx]['negative'], debate_list[idx]['positive']
     else:
         return "",""
 
@@ -774,12 +774,12 @@ def build_debate(models):
             with gr.Row():
                 #
                 with gr.Column(scale=1, min_width=50):
-                    standA_text = gr.Textbox(value=f"{debate_list[0]['positive']}", show_label=False, max_lines=1, placeholder="请输入左边辩手的持方（反方）")
+                    standA_text = gr.Textbox(value=f"{debate_list[0]['negative']}", show_label=False, max_lines=1, placeholder="请输入左边辩手的持方（反方）")
                     # standA_text = gr.Textbox(value=f"", show_label=False)
                 with gr.Column(scale=0.3, min_width=50):
                     theme_exchange_btn = gr.Button(value="交换持方", interactive=True)
                 with gr.Column(scale=1, min_width=50):
-                    standB_text = gr.Textbox(value=f"{debate_list[0]['negative']}", show_label=False, max_lines=1, placeholder="请输入右边辩手的持方（正方）")
+                    standB_text = gr.Textbox(value=f"{debate_list[0]['positive']}", show_label=False, max_lines=1, placeholder="请输入右边辩手的持方（正方）")
                     # standB_text = gr.Textbox(value=f"", show_label=False)
                 # 
         

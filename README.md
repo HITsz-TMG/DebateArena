@@ -2,7 +2,7 @@
 
 <div align="center">
 
- [Overview](https://github.com/HITsz-TMG/DebateArena#overview) | [Getting Started](https://github.com/HITsz-TMG/DebateArena#getting-started) | [Architecture](https://github.com/HITsz-TMG/DebateArena#architecture) | [Contact](https://github.com/HITsz-TMG/DebateArena#contact)
+ [Overview](https://github.com/HITsz-TMG/DebateArena#overview) | [Simple Demo](https://github.com/HITsz-TMG/DebateArena#simple-demo) | [Getting Started](https://github.com/HITsz-TMG/DebateArena#getting-started) | [Architecture](https://github.com/HITsz-TMG/DebateArena#architecture) | [Contact](https://github.com/HITsz-TMG/DebateArena#contact)
 
 </div>
 

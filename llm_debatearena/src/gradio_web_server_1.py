@@ -731,7 +731,7 @@ def build_debate(models):
 - 如果您要自定义辩题则需要您手动输入辩题和双方的立场，否则不能开始辩论。
 - 自定义辩题和立场时，左边为反方立场，右边为正方立场。
 - 点击"清空"可以重新选择模型和设定辩论主题。
-- [[GitHub]](https://github.com/lm-sys/FastChat)
+- [[GitHub]](https://github.com/HITsz-TMG/DebateArena)
 """
 # ### Terms of use
 # By using this service, users are required to agree to the following terms: The service is a research preview intended for non-commercial use only. It only provides limited safety measures and may generate offensive content. It must not be used for any illegal, harmful, violent, racist, or sexual purposes. **The service collects user dialogue data and reserves the right to distribute it under a Creative Commons Attribution (CC-BY) license.** The demo works better on desktop devices with a wide screen.
